@@ -3,6 +3,3 @@ image:
 
 tasks:
   - init: stack setup
-
-vscode:
-  extensions:
