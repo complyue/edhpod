@@ -3,3 +3,7 @@ image:
 
 tasks:
   - init: stack setup
+
+ports:
+  - port: 1024-6000
+    onOpen: ignore
